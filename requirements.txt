@@ -1,0 +1,6 @@
+google-genai
+langchain
+langchain-openai
+
+notebook
+
