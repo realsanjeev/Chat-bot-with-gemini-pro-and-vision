@@ -1,6 +1,7 @@
 google-genai
 langchain
 langchain-openai
+python-dotenv  # needed to run for script in notebooks/
 
 notebook
 
